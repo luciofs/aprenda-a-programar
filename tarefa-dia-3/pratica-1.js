@@ -1,5 +1,5 @@
 let n
-n = 9
+n = 999
 i = 1
 
 while (i <= n) {
