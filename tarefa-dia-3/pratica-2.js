@@ -1,5 +1,5 @@
 let n
-n = 9
+n = 6
 let i
 i = 1
 let tab
